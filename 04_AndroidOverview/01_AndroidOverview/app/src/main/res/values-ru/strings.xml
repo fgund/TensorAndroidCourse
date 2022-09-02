@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stop_music_button_text">Остановить музыку</string>
+    <string name="start_music_button_text">Включить музыку(портерет)</string>
+    <string name="app_name">Обзор Андроид</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidOverview</string>
+    <string name="start_music_button_text">Start Music(Portrait)</string>
+    <string name="stop_music_button_text">Stop music</string>
+</resources>
